@@ -1,4 +1,4 @@
-# React Hangman Game
+# React Shopping Cart
 
 A simple shopping cart application built with React, allowing users to pick products, review their quantity and value.
 
