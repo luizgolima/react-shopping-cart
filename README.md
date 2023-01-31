@@ -2,6 +2,9 @@
 
 A simple shopping cart application built with React, allowing users to pick products, review their quantity and value.
 
+<img width="387" alt="shopping-1" src="https://user-images.githubusercontent.com/110183537/215804022-a2aadd75-f796-4718-9f2d-5c2cf1d72f42.png">
+<img width="388" alt="shopping-2" src="https://user-images.githubusercontent.com/110183537/215804050-30347d86-aa8a-453f-bc2a-ef5bd7a93da1.png">
+
 ## Features
 - View available products
 - Choose product quantity
